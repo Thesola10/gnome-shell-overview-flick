@@ -1,4 +1,3 @@
-
 import St from 'gi://St';
 import Shell from 'gi://Shell';
 

@@ -1,10 +1,10 @@
 {
-  "description": "Flick from the right to get the Overview.\n\nThis extension was revived to GNOME 45 from the original, https://extensions.gnome.org/extension/1088/overview-now/\nOriginal description:\n\nThis is my first extension. Thanks, GNOME!. Based on \"Slide for Keyboard\", https://extensions.gnome.org/extension/993/slide-for-keyboard/\n\nWhy did I do this? Well, if you do a gesture with your thumb, on your touchscreen, from the right to the center, you'll get the Overview. If you do that, your thumb will be placed in the Desktop selector, so you will be able to move between desktops with your thumb. Perfect! This is also easier to trigger than the default GNOME gesture (three fingers closing).", 
+  "description": "Flick from the right to get the Overview.\n\nThis extension was revived to GNOME 45 from the original, https://extensions.gnome.org/extension/1088/overview-now/\n\nOriginal description:\n\nThis is my first extension. Thanks, GNOME!. Based on \"Slide for Keyboard\", https://extensions.gnome.org/extension/993/slide-for-keyboard/\n\nWhy did I do this? Well, if you do a gesture with your thumb, on your touchscreen, from the right to the center, you'll get the Overview. If you do that, your thumb will be placed in the Desktop selector, so you will be able to move between desktops with your thumb. Perfect! This is also easier to trigger than the default GNOME gesture (three fingers closing).", 
   "name": "Overview Flick", 
   "shell-version": [
     "45"
   ], 
-  "url": "", 
+  "url": "https://github.com/thesola10/gnome-shell-overview-flick",
   "uuid": "overviewnow@thesola.io", 
   "version": 1
 }
